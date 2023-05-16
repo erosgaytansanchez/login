@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92098619454",
+    "project_id": "ultimoi-ntento",
+    "storage_bucket": "ultimoi-ntento.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92098619454:android:c77bbcb0c0ecd24211c96f",
+        "android_client_info": {
+          "package_name": "com.example.ultimo_intento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92098619454-ad601jni8kpcird1e1jcml8ufc6clt3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiNgeCJuBf9bd7KRakyQ5ckWSL8PAfEsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92098619454-ad601jni8kpcird1e1jcml8ufc6clt3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
